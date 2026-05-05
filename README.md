@@ -38,4 +38,4 @@ Previously, I designed SWIR metalenses at [ISRO-SAC](https://www.sac.gov.in/) us
 
 ---
 
-**Links**: [LinkedIn](https://linkedin.com/in/dishantgupta2004) · [Portfolio](https://dishantgupta2004.github.io) · [Email](mailto:22bph016@nith.ac.in)
+**Links**: [LinkedIn](https://www.linkedin.com/in/dishant-gupta-44067926a/) · [Portfolio](https://dishant-portfolio-cyan.vercel.app/) · [Email](mailto:22bph016@nith.ac.in)
