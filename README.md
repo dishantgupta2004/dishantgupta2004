@@ -2,13 +2,13 @@
 
 **Engineering Physics (B.Tech) · NIT Hamirpur '26**
 
-I work at the intersection of physics and machine learning — building neural networks that respect physical laws, and studying how language models reason about structured problems.
+I work at the intersection of nanophotonics, computational electromagnetics, and machine learning — building simulation-driven frameworks for metasurface and metalens design, while exploring how language models can automate scientific workflows and structured reasoning tasks.
 
 My current research spans two threads:
-- **Physics-Informed ML**: Training neural networks under physical constraints (PDEs, conservation laws) for scientific computing. Published work on Langevin dynamics-based PINN training ([PICS-2025 / Springer](https://github.com/dishantgupta2004/LPINN-CVD)).
-- **LLM Reasoning & Code Generation**: Fine-tuning and evaluating small language models on mathematical reasoning and code generation tasks, with a focus on understanding when and why these models fail.
+- **Nanophotonics & Meta-Optics**: Designing SWIR metalenses and metasurfaces using RCWA/FDTD simulations, inverse design methods, and computational optimization pipelines for imaging applications.
+- **LLM Reasoning & Scientific Automation**: Developing LLM-integrated design systems for nanophotonic workflows, code generation, simulation orchestration, and mathematical reasoning under structured constraints.
 
-Previously, I designed SWIR metalenses at [ISRO-SAC](https://www.sac.gov.in/) using FDTD/RCWA simulations and co-founded [Unisole Empower](https://github.com/unisole-empower), an edtech initiative through which I've taught AI/ML to 2,000+ students.
+Previously, I designed SWIR metalenses at [ISRO-SAC](https://www.sac.gov.in/) using FDTD/RCWA simulations and co-founded [Unisole Empower](https://classplusapp.com/w/unisole-empower), an edtech initiative through which I've taught AI/ML to 2,000+ students.
 
 ---
 
@@ -16,11 +16,10 @@ Previously, I designed SWIR metalenses at [ISRO-SAC](https://www.sac.gov.in/) us
 
 | Repository | Description |
 |:-----------|:------------|
-| [**LPINN-CVD**](https://github.com/dishantgupta2004/LPINN-CVD) | Langevin dynamics framework for accelerating Physics-Informed Neural Networks. Applied to CVD simulations — 40% faster convergence, 99% accuracy vs standard PINNs. Accepted at PICS-2025 (Springer). |
-| [**LLM_Reasoning_Research**](https://github.com/dishantgupta2004/LLM_Reasoning_Research) | Ongoing: parameter-efficient fine-tuning (LoRA, adapters) and RL-based optimization for code generation in small language models. Evaluating on APPS and code benchmarks. |
-| [**Radar-Hail-Prediction-Model**](https://github.com/dishantgupta2004/Radar-Hail-Prediction-Model) | PINN-based real-time hailstorm prediction model integrating radar data with atmospheric physics for agricultural risk management. |
 | [**metacode**](https://github.com/NSKAILABS/metacode) | Metaoptics research — metalens design, phase optimization, and GDSII layout generation for SWIR photonic devices. |
-| [**laser_aerosol_pm**](https://github.com/dishantgupta2004/laser_aerosol_pm) | Laser-aerosol particulate matter sensor — hardware + software pipeline for real-time air quality measurement (B.Tech major project). |
+| [**LLM_Reasoning_Research**](https://github.com/dishantgupta2004/LLM_Reasoning_Research) | Ongoing: parameter-efficient fine-tuning (LoRA, adapters) and RL-based optimization for code generation in small language models. Evaluating on APPS and code benchmarks. (Under Development)|
+| [**Radar-Hail-Prediction-Model**](https://github.com/dishantgupta2004/Radar-Hail-Prediction-Model) | PINN-based real-time hailstorm prediction model integrating radar data with atmospheric physics for agricultural risk management . (Under Development)|
+
 
 ### Technical Foundations
 
@@ -38,4 +37,4 @@ Previously, I designed SWIR metalenses at [ISRO-SAC](https://www.sac.gov.in/) us
 
 ---
 
-**Links**: [LinkedIn](https://www.linkedin.com/in/dishant-gupta-44067926a/) · [Portfolio](https://dishant-portfolio-cyan.vercel.app/) · [Email](mailto:22bph016@nith.ac.in)
+**Links**: [LinkedIn](https://www.linkedin.com/in/dishant-gupta-44067926a/)  · [Email](mailto:22bph016@nith.ac.in)
