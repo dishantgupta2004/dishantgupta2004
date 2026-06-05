@@ -8,7 +8,7 @@ My current research spans two threads:
 - **Nanophotonics & Meta-Optics**: Designing SWIR metalenses and metasurfaces using RCWA/FDTD simulations, inverse design methods, and computational optimization pipelines for imaging applications.
 - **LLM Reasoning & Scientific Automation**: Developing LLM-integrated design systems for nanophotonic workflows, code generation, simulation orchestration, and mathematical reasoning under structured constraints.
 
-Previously, I designed SWIR metalenses at [ISRO-SAC](https://www.sac.gov.in/) using FDTD/RCWA simulations and co-founded [Unisole Empower](https://classplusapp.com/w/unisole-empower), an edtech initiative through which I've taught AI/ML to 2,000+ students.
+Previously, I designed SWIR metalenses at [ISRO-SAC](https://www.sac.gov.in/) using FDTD/RCWA simulations and co-founded [Unisole Empower](https://classplusapp.com/w/unisole-empower), an edtech initiative through which I am teaching to 100 Students and Conducted 20+ AI Workshops.
 
 ---
 
