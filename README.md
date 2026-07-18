@@ -1,12 +1,12 @@
 # Dishant Gupta
+
 **Engineering Physics (B.Tech) · NIT Hamirpur '26**
 
-I work at the intersection of nanophotonics, computational electromagnetics, and machine learning — building simulation-driven frameworks for metasurface and metalens design, while exploring how language models can automate scientific workflows and structured reasoning tasks.
+I work at the intersection of computational physics, photonics, artificial intelligence, and scientific machine learning—building physics-driven computational frameworks while exploring how AI can accelerate scientific discovery, simulation, and engineering design.
 
-My current research spans two threads:
-
-- **Nanophotonics & Meta-Optics**: Designing SWIR metalenses and metasurfaces using RCWA/FDTD simulations, inverse design methods, and computational optimization pipelines for imaging applications.
-- **LLM Reasoning & Scientific Automation**: Developing LLM-integrated design systems for nanophotonic workflows, code generation, simulation orchestration, and mathematical reasoning under structured constraints.
+My current research spans two primary directions:
+1. **Computational Photonics & Meta-Optics:** Developing simulation-driven frameworks for photonic device design, computational electromagnetics, inverse design, and nanophotonic structures, with applications in metasurfaces, metalenses, and integrated photonic systems.
+2. **Quantum-AI Physics-Informed Neural Networks (QA-PINNs):** Investigating hybrid quantum-classical physics-informed neural networks, explainable AI techniques for scientific machine learning, quantum machine learning architectures, and their applications to solving partial differential equations and physics-based modeling.
 
 Previously, I designed SWIR metalenses at [ISRO-SAC](https://www.sac.gov.in/) using FDTD/RCWA simulations and co-founded [Unisole Empower](https://classplusapp.com/w/unisole-empower), an edtech initiative through which I am teaching to 100 Students and Conducted 20+ AI Workshops.
 
@@ -17,8 +17,7 @@ Previously, I designed SWIR metalenses at [ISRO-SAC](https://www.sac.gov.in/) us
 | Repository | Description |
 |:-----------|:------------|
 | [**metacode**](https://github.com/NSKAILABS/metacode) | Metaoptics research — metalens design, phase optimization, and GDSII layout generation for SWIR photonic devices. |
-| [**Digital_Holography_MeepFDTD**](https://github.com/dishantgupta2004/Digital_Holography_MeepFDTD) | DHM-AI diabetes diagnostics — synthetic Digital Holographic Microscopy phase maps of red blood cells generated via rigorous Meep FDTD simulation, feeding an AI classifier that distinguishes healthy from glycated (diabetic) cells through optical path delay biomarkers. |
-| [**LLM_Reasoning_Research**](https://github.com/dishantgupta2004/LLM_Reasoning_Research) | Ongoing: parameter-efficient fine-tuning (LoRA, adapters) and RL-based optimization for code generation in small language models. Evaluating on APPS and code benchmarks. (Under Development)|
+| [**QAPINN vs Classical PINN for solving the non linear PDEs**](https://github.com/dishantgupta2004/QAPINN_Burgers_Equations.git) | Development of the mathrmatical methodology of Quantum Inspired Physics Informed Neural Networks how their learning take place and under what conditions, QAPINNs outperforms. (Ongoing - as per I am participating in the WISER 2026 PROJECT CHALLENGES|
 | [**Radar-Hail-Prediction-Model**](https://github.com/dishantgupta2004/Radar-Hail-Prediction-Model) | PINN-based real-time hailstorm prediction model integrating radar data with atmospheric physics for agricultural risk management . (Under Development)|
 
 ### Technical Foundations
